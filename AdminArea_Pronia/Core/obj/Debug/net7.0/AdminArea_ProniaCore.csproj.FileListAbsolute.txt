@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\bin\Debug\net7.0\AdminArea_ProniaCore.deps.json
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\bin\Debug\net7.0\AdminArea_ProniaCore.dll
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\bin\Debug\net7.0\AdminArea_ProniaCore.pdb
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.dll
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\refint\AdminArea_ProniaCore.dll
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.pdb
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\ref\AdminArea_ProniaCore.dll
+C:\Users\Asus\source\repos\AdminArea_Pronia\Core\obj\Debug\net7.0\AdminArea_ProniaCore.csproj.AssemblyReference.cache
